@@ -1,0 +1,9 @@
+:root {
+  --color-bg: #0D1117;      /* Dark navy background */
+  --color-primary: #58A6FF; /* Bright blue for highlights */
+  --color-secondary: #1F6FEB; /* Deep blue for buttons */
+  --color-text: #C9D1D9;   /* Light gray for readable text */
+  --color-accent: #FF7B72; /* Coral red for accents */
+  --color-border: #30363D; /* Muted gray for borders */
+}
+

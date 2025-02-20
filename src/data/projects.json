@@ -1,0 +1,23 @@
+[
+  {
+    "title": "GPS Live Tracking Web Application",
+    "imageSrc": "projects/ARR.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Google Maps API"],
+    "demo": "https://busgps-1c9a3.web.app/"
+  },
+  {
+    "title": "Event Management Web Application",
+    "imageSrc": "projects/wedd.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://sankar-talatam.github.io/Event-Management-Web-Application/event_management-main/htmlfiles/example.html"
+  },
+  {
+    "title": " Zomato Clone Delivery Web Application",
+    "imageSrc": "projects/zom.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://sankar-talatam.github.io/Zomato/"
+  }
+]

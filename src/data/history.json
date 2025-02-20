@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Web Development Intern Trainee",
+    "organisation": "Coursevita",
+    "startDate": "Aug, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": ["Worked on React", "Innovative Web Applicatioins"]
+  },
+  {
+    "role": "Student Partner",
+    "organisation": "Internshala",
+    "startDate": "Jun, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Worked on Marketing", "Organized Engaging Campaigns On the College"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Full Stack Development Intern",
+    "organisation": "Technical Hub",
+    "startDate": "Aug, 2024",
+    "endDate": "Oct, 2025",
+    "experiences": [
+      "Worked on Frontend and Backend",
+      "Helped create responsive components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
